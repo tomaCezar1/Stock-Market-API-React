@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ffef9ab.chunk.css",
-    "main.js": "/static/js/main.3aba7c09.chunk.js",
-    "main.js.map": "/static/js/main.3aba7c09.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.42108e94.js",
-    "runtime-main.js.map": "/static/js/runtime-main.42108e94.js.map",
-    "static/js/2.e59a8887.chunk.js": "/static/js/2.e59a8887.chunk.js",
-    "static/js/2.e59a8887.chunk.js.map": "/static/js/2.e59a8887.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.98ac693202acb62b0f54cd992aacc90b.js": "/precache-manifest.98ac693202acb62b0f54cd992aacc90b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.9ffef9ab.chunk.css.map": "/static/css/main.9ffef9ab.chunk.css.map",
-    "static/js/2.e59a8887.chunk.js.LICENSE.txt": "/static/js/2.e59a8887.chunk.js.LICENSE.txt"
+    "main.css": "/tomaCezar1/Stock-Market-API-React/static/css/main.9ffef9ab.chunk.css",
+    "main.js": "/tomaCezar1/Stock-Market-API-React/static/js/main.3aba7c09.chunk.js",
+    "main.js.map": "/tomaCezar1/Stock-Market-API-React/static/js/main.3aba7c09.chunk.js.map",
+    "runtime-main.js": "/tomaCezar1/Stock-Market-API-React/static/js/runtime-main.f016c885.js",
+    "runtime-main.js.map": "/tomaCezar1/Stock-Market-API-React/static/js/runtime-main.f016c885.js.map",
+    "static/js/2.e59a8887.chunk.js": "/tomaCezar1/Stock-Market-API-React/static/js/2.e59a8887.chunk.js",
+    "static/js/2.e59a8887.chunk.js.map": "/tomaCezar1/Stock-Market-API-React/static/js/2.e59a8887.chunk.js.map",
+    "index.html": "/tomaCezar1/Stock-Market-API-React/index.html",
+    "precache-manifest.11b77b5d2c5fe4833ac91809d7703514.js": "/tomaCezar1/Stock-Market-API-React/precache-manifest.11b77b5d2c5fe4833ac91809d7703514.js",
+    "service-worker.js": "/tomaCezar1/Stock-Market-API-React/service-worker.js",
+    "static/css/main.9ffef9ab.chunk.css.map": "/tomaCezar1/Stock-Market-API-React/static/css/main.9ffef9ab.chunk.css.map",
+    "static/js/2.e59a8887.chunk.js.LICENSE.txt": "/tomaCezar1/Stock-Market-API-React/static/js/2.e59a8887.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.42108e94.js",
+    "static/js/runtime-main.f016c885.js",
     "static/js/2.e59a8887.chunk.js",
     "static/css/main.9ffef9ab.chunk.css",
     "static/js/main.3aba7c09.chunk.js"
